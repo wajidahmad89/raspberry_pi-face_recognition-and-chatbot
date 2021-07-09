@@ -1,0 +1,63 @@
+{
+  "intents": [
+
+    {
+      "tag": "initiate",
+      "patterns": [ "Start initiation" ],
+      "responses": [ "Initiation done" ],
+      "context": [ "" ]
+    },
+
+
+
+
+
+    {
+      "tag": "greeting",
+      "patterns": [ "Hi there", "How are you", "Is anyone there?", "Hey", "Hola", "Hello", "Good day" ],
+      "responses": [ "Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?" ],
+      "context": [ "" ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [ "Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time" ],
+      "responses": [ "See you!", "Have a nice day", "Bye! Come back again soon." ],
+      "context": [ "" ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [ "Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me" ],
+      "responses": [ "Any time!", "My pleasure" ],
+      "context": [ "" ]
+    },
+
+
+    {
+      "tag": "name",
+      "patterns": [ "What is your name?", "Who are you?" ],
+      "responses": [ "My name is Rexy", "Rexy is my name" ],
+      "context": [ "" ]
+    },
+
+    {
+      "tag": "age",
+      "patterns": [ "How old are you?", "What is your age?" ],
+      "responses": [ "Age is just a number!" ],
+      "context": [ "" ]
+    },
+
+    {
+      "tag": "actions",
+      "patterns": [ "What can you do?", "What is your purpose?" ],
+      "responses": [ "Well, I am a creation, just like you are", "I want to be your friend" ],
+      "context": [ "" ]
+    },
+
+    {
+      "tag": "swear",
+      "patterns": [ "fuck" ],
+      "responses": [ "Mind your language!" ],
+      "context": [ "" ]
+    }
+  ]
+}
