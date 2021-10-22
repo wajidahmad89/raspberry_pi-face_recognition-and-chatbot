@@ -2,6 +2,8 @@
 face recognition + python chatbot on raspberry pi
 
 
+Here is a quick demo of the project:
+https://www.youtube.com/watch?v=qGZAev3S_UU
 
 Check out my blog:
 www.rexythebot.com
