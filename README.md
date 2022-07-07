@@ -6,9 +6,8 @@ face recognition + python chatbot on raspberry pi
 Here is a quick demo of the project:
 https://www.youtube.com/watch?v=qGZAev3S_UU
 
-Check out my blog:
-https://www.rexythebot.com/introduction/
-
+The documentation can be found here:
+https://www.hackster.io/wajidahmad89/talking-robot-toy-1c48c9
 
 I talk about how to utilise machine learning to add face recognition + chatbot functionalities to your raspberry pi.
 
