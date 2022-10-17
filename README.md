@@ -1,4 +1,4 @@
-# rexythebot
+# TalkingPI
 Make a talking robot toy!
 face recognition + python chatbot on raspberry pi
 
